@@ -30,12 +30,16 @@ const Left = () => {
           />
           <AnimatedTextCharacter
             className="font-medium text-3xl sm:text-4xl tracking-normal md:text-5xl text-slate-400 mt-1"
-            text="I build for web & mobile."
+            text="Full Stack Developer specializing"
+          />
+          <AnimatedTextCharacter
+            className="font-medium text-3xl sm:text-4xl tracking-normal md:text-5xl text-slate-400 mt-1"
+            text="in web, mobile & AI."
           />
         </div>
 
         <div className="my-5 md:my-8 leading-7 text-slate-400 md:text-lg max-w-3xl">
-          <AnimatedTextWord text="Bishal Khatri, a highly motivated and passionate Full Stack Developer, brings seven years of extensive experience in JavaScript, React.js, Next.js, Firebase, Tailwind CSS, Material UI, Node.js, Express.js, and other cutting-edge technologies. Based in Dubai, UAE, Bishal is renowned for delivering exceptional web and mobile applications using his expertise in these key areas." />
+          <AnimatedTextWord text="I’m a senior full-stack developer with over eight years of professional experience delivering robust and scalable software solutions. I have strong expertise in JavaScript, TypeScript, and Python, and I’m highly proficient in modern frameworks such as React, Next.js, and Node.js. Based in Dubai, UAE, I also focus on building intelligent AI-driven systems that enhance business efficiency and user experience." />
         </div>
       </div>
 

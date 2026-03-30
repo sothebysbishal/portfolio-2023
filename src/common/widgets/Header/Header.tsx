@@ -45,15 +45,12 @@ const Header = () => {
         <Link href="/" className="flex">
           <AnimatedTextCharacter
             text="B"
-            className="text-4xl font-semibold text-sky-700"
+            className="text-4xl font-semibold text-white"
           />
-          <AnimatedTextCharacter
-            text="ishal"
-            className="text-4xl text-slate-700/80"
-          />
+          <AnimatedTextCharacter text="ishal" className="text-4xl text-white" />
           <AnimatedTextCharacter
             text=" K."
-            className="text-4xl font-semibold text-sky-700"
+            className="text-4xl font-semibold text-white"
           />
         </Link>
 
@@ -77,7 +74,7 @@ const Header = () => {
           ))}
 
           <Link
-            href="https://drive.google.com/file/d/1PMGqsLzu3kRRAvupOI87zYddY8EMf3SW/view?usp=sharing"
+            href="https://drive.google.com/file/d/1HWWADP-adGVhi3Jv6sg0m6_jO5-0-u4u/view?usp=sharing"
             target="__blank"
           >
             {" "}
